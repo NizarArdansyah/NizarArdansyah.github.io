@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19ce56d6.css",
+    "main.js": "/static/js/main.232d238d.js",
+    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
+    "static/media/logo.png": "/static/media/logo.722c9e51fcd081e62f7c.png",
+    "static/media/banner1.jpg": "/static/media/banner1.5ff9d5a5af33ac7c3732.jpg",
+    "static/media/join.svg": "/static/media/join.b95d81dbddd04504fe84a93d8c2c8d78.svg",
+    "static/media/Laundryku.svg": "/static/media/Laundryku.0508ba14db4622b5228ce58236042487.svg",
+    "static/media/arrow.svg": "/static/media/arrow.e5b53fdc61b35eabf041dc7d025d5f7d.svg",
+    "index.html": "/index.html",
+    "static/media/discover.svg": "/static/media/discover.3d368606dfdc31521bb080ae6da5b18f.svg",
+    "static/media/ticket.svg": "/static/media/ticket.cdb689453e0bd327e3ff0b8b638fdd48.svg",
+    "static/media/bag.svg": "/static/media/bag.e75ca9fefe29e7f83f52f9a0b50408ef.svg",
+    "static/media/chat.svg": "/static/media/chat.4977b8bbada02726d647143bcffde6c1.svg",
+    "main.19ce56d6.css.map": "/static/css/main.19ce56d6.css.map",
+    "main.232d238d.js.map": "/static/js/main.232d238d.js.map",
+    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19ce56d6.css",
+    "static/js/main.232d238d.js"
+  ]
+}
